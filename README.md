@@ -1,5 +1,7 @@
 # widgets_portable-client
 
+### [russian readme version / русская версия readme](./README_RU.md)
+
 PC client for **widgets_portable**
 
 ## Versions
